@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoPulse</string>
+    <string name="nav_map">Live Map</string>
+    <string name="nav_routes">Route Builder</string>
+    <string name="nav_saved">Presets &amp; Apps</string>
+    <string name="nav_diagnostics">Diagnostics</string>
+    <string name="status_active">SPOOFING ACTIVE</string>
+    <string name="status_paused">SIMULATION PAUSED</string>
+    <string name="status_idle">STANDBY</string>
+    <string name="btn_start_spoof">Deploy Mock Location</string>
+    <string name="btn_stop_spoof">Terminate Spoofing</string>
+    <string name="btn_generate_route">Generate Road Route</string>
+    <string name="btn_save_route">Save Route</string>
+    <string name="btn_open_dev_options">Open Developer Options</string>
+    <string name="search_hint">Search city, street, or landmark…</string>
+    <string name="joystick_label">Tactical 360° Live Drift Joystick</string>
+    <string name="compatible_apps_title">Target Social &amp; Messaging Apps</string>
+    <string name="compatible_apps_subtitle">Live location feed compatible with Snapchat, Telegram &amp; WhatsApp</string>
+</resources>

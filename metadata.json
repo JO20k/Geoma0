@@ -1,0 +1,6 @@
+{
+  "name": "GeoPulse",
+  "description": "Live GPS mock location spoofer and route movement simulator with interactive map, OSRM road routing, and real-time Android test provider injection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
